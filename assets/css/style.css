@@ -19,7 +19,7 @@ body{
 }
 
 .container{
-    border-radius: 10%;
+    border-radius: 1%;
     min-width: 400px;
     min-height: 400px;
     background-color: #1d1e33;
